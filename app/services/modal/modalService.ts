@@ -20,7 +20,7 @@ export function openModal(type: string, i: number): void {
       <p>${data.description}</p>
        
        <div data-tour-id=${tourId} class="ticket-submit">
-       <a href="/ticket.html">Купить билет</a>
+       <a href="/travelShopMain/dist/ticket.html">Купить билет</a>
 </div>
      </div>
   `
